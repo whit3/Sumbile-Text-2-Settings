@@ -1,13 +1,15 @@
 {
 	"auto_complete_selector": "source, text",
-	"color_scheme": "Packages/Colorsublime-Themes/LastNight.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"scroll_past_end": false,
+	"color_scheme": "Packages/Colorsublime-Themes/LastNight.tmTheme",
 	"theme": "Soda Dark.sublime-theme",
+	"show_tab_close_buttons": false,
 	"highlight_modified_tabs": true,
+	"highlight_line": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"ensure_newline_at_eof_on_save": true,
