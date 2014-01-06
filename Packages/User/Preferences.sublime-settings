@@ -1,6 +1,7 @@
 {
 	"auto_complete_selector": "source, text",
 	"color_scheme": "Packages/Colorsublime-Themes/LastNight.tmTheme",
+	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -8,9 +9,11 @@
 	[
 		"Vintage"
 	],
+	"jsdocs_min_spaces_between_columns": 2,
+	"jsdocs_param_description": false,
+	"jsdocs_return_description": false,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"tab_size": 4,
 	"rulers":
 	[
 		75,
@@ -18,7 +21,7 @@
 	],
 	"scroll_past_end": false,
 	"show_tab_close_buttons": false,
+	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	"detect_slow_plugins": false
+	"trim_trailing_white_space_on_save": true
 }
