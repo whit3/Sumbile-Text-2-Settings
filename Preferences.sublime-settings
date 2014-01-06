@@ -1,0 +1,20 @@
+{
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Colorsublime-Themes/LastNight.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": false,
+	"theme": "Soda Dark.sublime-theme",
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
+	"rulers":
+	[
+		79,
+		90
+	]
+}
