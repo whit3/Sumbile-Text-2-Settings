@@ -3,6 +3,12 @@ Sumbile Text 2 Settings
 
 My settings (user preferences, color scheme) for Sublime Text 2.
 
+Color Scheme
+------------
+
+*LastNight* by Spielberg0, based on the Sublime Text Tomorrow Night theme.
+From [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes/blob/master/LastNight.tmTheme) repository.
+
 Installed Packages
 ------------------
 
