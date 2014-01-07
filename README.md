@@ -18,6 +18,7 @@ Installed Packages
 * CoffeeScript
 * CSScomb
 * CSV
+* DocBlockr
 * Emmet
 * Emmet Css Snippets
 * Haml
