@@ -13,6 +13,7 @@ Installed Packages
 ------------------
 
 * Alignment
+* ApacheConf.tmLanguage
 * Better CoffeeScript
 * BracketHighlighter
 * CoffeeScript
@@ -32,6 +33,7 @@ Installed Packages
 * Package Control
 * PHP Namespace Command
 * PHP Syntax Checker
+* Random Everything
 * SCSS
 * Stylus
 * SublimeCodeIntel
