@@ -16,7 +16,6 @@ Installed Packages
 * ApacheConf.tmLanguage
 * Better CoffeeScript
 * BracketHighlighter
-* CoffeeScript
 * CSScomb
 * CSV
 * DocBlockr
