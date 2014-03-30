@@ -26,6 +26,7 @@ Installed Packages
 * Jade
 * jQuery
 * jQuery Snippets for Coffeescript
+* JS2Coffee
 * Laravel Blade Highlighter
 * Laravel Generator
 * nginx
