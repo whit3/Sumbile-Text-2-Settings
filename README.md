@@ -21,6 +21,7 @@ Installed Packages
 * DocBlockr
 * Emmet
 * Emmet Css Snippets
+* Fix Mac Path
 * Haml
 * Jade
 * jQuery
