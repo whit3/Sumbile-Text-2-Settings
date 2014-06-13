@@ -1,6 +1,6 @@
 {
 	"auto_complete_selector": "source, text",
-	"color_scheme": "Packages/Colorsublime-Themes/LastNight.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
@@ -17,12 +17,12 @@
 	"rulers":
 	[
 		75,
-		79,
 		90
 	],
 	"scroll_past_end": false,
 	"show_tab_close_buttons": false,
-	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": false
 }
