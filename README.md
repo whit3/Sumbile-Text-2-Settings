@@ -35,9 +35,9 @@ Installed Packages
 * PHP Namespace Command
 * PHP Syntax Checker
 * Random Everything
+* Ruby Hash Converter
 * SCSS
 * Stylus
 * SublimeCodeIntel
-* Theme - Soda
-* Tomorrow Color Schemes
+* Theme - Spacegray
 * TrailingSpaces
