@@ -7,6 +7,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Better CoffeeScript",
 		"Vintage"
 	],
 	"jsdocs_min_spaces_between_columns": 2,
@@ -14,15 +15,11 @@
 	"jsdocs_return_description": false,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"rulers":
-	[
-		75,
-		90
-	],
 	"scroll_past_end": false,
 	"show_tab_close_buttons": false,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false
+	"trailing_spaces_highlight_color": "comment",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true
 }
