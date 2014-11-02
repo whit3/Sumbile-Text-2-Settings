@@ -16,14 +16,17 @@ Installed Packages
 * ApacheConf.tmLanguage
 * Better CoffeeScript
 * BracketHighlighter
+* CoffeeScript
 * CSScomb
 * CSV
 * DocBlockr
 * Emmet
 * Emmet Css Snippets
 * Fix Mac Path
+* GoSublime
 * Haml
 * Jade
+* Jade Build
 * jQuery
 * jQuery Snippets for Coffeescript
 * JS2Coffee
@@ -34,10 +37,17 @@ Installed Packages
 * Package Control
 * PHP Namespace Command
 * PHP Syntax Checker
+* Python 3
+* Python Auto-Complete
 * Random Everything
 * Ruby Hash Converter
+* Ruby Slim
 * SCSS
 * Stylus
 * SublimeCodeIntel
+* SublimeOnSaveBuild
+* Syntax Highlighting for Sass
+* Theme - Sodarized
 * Theme - Spacegray
-* TrailingSpaces
+* Tomorrow Color Schemes
+* TrailingSpace
